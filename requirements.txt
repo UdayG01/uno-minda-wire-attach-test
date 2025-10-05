@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+pyserial
+psycopg2-binary
+python-dotenv
+
+--extra-index-url https://download.pytorch.org/whl/cu118

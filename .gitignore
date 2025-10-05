@@ -1,0 +1,7 @@
+venv/
+input videos/
+output videos/
+dataset/
+tb_log/
+extracted_frames/
+extracted_frames_v2/
